@@ -141,10 +141,7 @@ This project is **MIT Licensed**. Feel free to use and modify it.
 
 ---
 
-## 💡 **Contributions**
-Want to improve this project? **Fork and submit a PR!**  
-Let's build something amazing together!   
-
+## 💡 **Contributions**   
 👨‍💻 **Author:** Vetri K  
 🔗 **GitHub:** [Vetri](https://github.com/Vetri75)  
 📧 **Contact:** kvetri137@gmail.com  
