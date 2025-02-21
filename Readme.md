@@ -57,7 +57,7 @@ The backend will be available at: **http://localhost:8080**
 ```properties
 spring.datasource.url=jdbc:mysql://localhost:3306/ems_db
 spring.datasource.username=root
-spring.datasource.password=yourpassword
+spring.datasource.password=@V
 ```
 
 ---
