@@ -15,7 +15,7 @@ A full-stack web application for managing employees with **authentication, role-
 
 ---
 
-## 🛠️ **Tech Stack**
+## **Tech Stack**
 
 **Frontend:**  
 - React.js (Vite, Axios, React Router)  
@@ -28,9 +28,9 @@ A full-stack web application for managing employees with **authentication, role-
 
 ---
 
-## 🏗️ **Project Setup**  
+## **Project Setup**  
 
-### ⚡ **1. Clone the Repository**
+### **1. Clone the Repository**
 ```bash
 git clone https://github.com/Vetri75/employee-management-system.git
 cd employee-management-system
@@ -38,7 +38,7 @@ cd employee-management-system
 
 ---
 
-### ⚡ **2. Backend Setup (Spring Boot)**
+### **2. Backend Setup (Spring Boot)**
 #### ➤ **Pre-requisites**  
 ✅ Java 17+  
 ✅ MySQL Database  
@@ -49,7 +49,7 @@ cd backend
 mvn clean install
 mvn spring-boot:run
 ```
-🚀 The backend will be available at: **http://localhost:8080**
+The backend will be available at: **http://localhost:8080**
 
 #### ➤ **Configure MySQL Database**
 - Open `application.properties` in `src/main/resources/`
@@ -62,7 +62,7 @@ spring.datasource.password=yourpassword
 
 ---
 
-### ⚡ **3. Frontend Setup (React.js)**
+### **3. Frontend Setup (React.js)**
 #### ➤ **Pre-requisites**  
 ✅ Node.js 16+  
 ✅ npm or yarn  
@@ -73,7 +73,7 @@ cd frontend
 npm install
 npm run dev
 ```
-🚀 The frontend will be available at: **http://localhost:5173**
+The frontend will be available at: **http://localhost:5173**
 
 ---
 
@@ -118,7 +118,7 @@ User: user@example.com / password
 
 ---
 
-## 🔥 **API Endpoints**  
+## **API Endpoints**  
 
 ### **🔐 Authentication**
 | Method | Endpoint | Description |
